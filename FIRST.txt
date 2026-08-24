@@ -1,0 +1,8 @@
+FIRST
+FIRST(E) = { ( id }
+FIRST(T) = { ( id }
+FIRST(F) = { ( id }
+FOLLOW
+FOLLOW(E) = { $ ) }
+FOLLOW(T) = { + $ ) }
+FOLLOW(F) = { * + $ ) }
